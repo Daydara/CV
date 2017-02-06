@@ -1,0 +1,30 @@
+body {
+  background-color: #9CB0B1;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
+
+h1 {
+  text-align: center
+}
+
+h2 {
+  color: brown;
+  font-size: 20px;
+  font-family:"times new roman", times, serif;
+  font-style: italic;
+  text-decoration: underline;
+  text-transform: full-width;
+}
+
+.ter {
+  color: yellow;
+  font-size: 20px;
+  font-family:"times new roman", times, serif;
+  font-style: italic;
+  text-decoration: underline;
+  text-transform: full-width;
+}
